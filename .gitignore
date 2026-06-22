@@ -17,6 +17,9 @@ venv/
 # 系统文件
 .DS_Store
 
+# 文档（不上传）
+deepresearch/
+
 # 输出目录（运行时生成的报告等）
 output/
 
